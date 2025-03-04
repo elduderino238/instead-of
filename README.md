@@ -112,7 +112,7 @@ A curated list of free and open-source alternatives to common proprietary softwa
 
   > Shotcut is a free and open-source, cross-platform video, audio, and image editing program for Linux, macOS and Windows.
 
-  <img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Shotcut_Video_Editor_Screenshot.jpg">
+  <img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Shotcut_printscreen_cs.png">
 
 - ### Lightroom > [Rawtherapee](https://www.rawtherapee.com/)/[Darktable](https://www.darktable.org/)
   > RawTherapee is application software for processing photographs in raw image formats, as created by many digital cameras.
